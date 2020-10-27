@@ -12,7 +12,7 @@ I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science E
 [<img align="left" alt="priyanka | LinkedIn" width="26px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="priyanka | Twitter" width="28px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/twitter.svg" />][twitter]
 [<img align="left" alt="priyanka | GitHub" width="28px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/github.svg" />][github]
-[<img align="left" alt="priyanka | Medium" width="28px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/medium.png" />][medium]
+[<img align="left" alt="priyanka | Medium" width="28px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/medium.svg" />][medium]
 
 <br />
 
