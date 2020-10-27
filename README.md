@@ -20,7 +20,9 @@ Connect with me
 [<img align="left" alt="priyanka | Medium" width="28px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/medium.png" />][medium]
 
 <br />
-[![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-ganesan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/priyanka-ganesan)
+
+<img align="left" alt="Priyanka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanka-ganesan&show_icons=true&hide_border=true&theme=dark" />
+
 <!--
 **priyanka-ganesan/priyanka-ganesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
