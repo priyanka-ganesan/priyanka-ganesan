@@ -7,12 +7,7 @@ I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science E
 - Angular (beginner)
 - Flutter (beginner)
 
-<h2>
-Connect with me
-</h2>
-
 ### Connect with me:
-<br />
 
 [<img align="left" alt="priyanka | LinkedIn" width="26px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="priyanka | Twitter" width="28px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/twitter.svg" />][twitter]
