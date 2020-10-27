@@ -14,10 +14,12 @@ I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science E
 [<img align="left" alt="priyanka | GitHub" width="28px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/github.svg" />][github]
 [<img align="left" alt="priyanka | Medium" width="28px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/medium.svg" />][medium]
 
-<br />
-
 ##⚡GitHub Status: 
 [![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-ganesan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/priyanka-ganesan)
+
+
+<img align="left" alt="vkyprmr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanka-ganesan&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="vkyprmr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-ganesanr&show_icons=true&hide_border=true&theme=dark" />
 
 
 
