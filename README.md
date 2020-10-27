@@ -2,7 +2,7 @@
 
 I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering.
 
-## 💻 Languages
+## 💻 Languages:
 - Django (beginner)
 - Angular (beginner)
 - Flutter (beginner)
@@ -16,8 +16,10 @@ I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science E
 
 <br />
 
-
+##⚡GitHub Status: 
+<p> 
 [![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-ganesan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/priyanka-ganesan)
+</p>
 
 
 [linkedin]: https://www.linkedin.com/in/priyanka-ganesan-372393186/
