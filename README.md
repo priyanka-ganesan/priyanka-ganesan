@@ -1,6 +1,6 @@
 ## Hello World :wave:
 
-I am a 3rd Year Undergrad pursuing Bachelors of Technology in Computer Science Engineering.
+I am a 3rd Year Undergrad pursuing Bachelors of Computer Science and Engineering.
 
 ## 💻 Languages:
 - Django (intermediate)
