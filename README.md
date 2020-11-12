@@ -3,7 +3,7 @@
 I am a 3rd Year Undergrad pursuing Bachelors of Technology in Computer Science Engineering.
 
 ## 💻 Languages:
-- Django (beginner)
+- Django (intermediate)
 - Angular (beginner)
 - Flutter (beginner)
 
