@@ -5,7 +5,7 @@ I am a 3rd Year Undergrad pursuing Bachelors of Computer Science and Engineering
 ## 💻 Languages:
 - Django (intermediate)
 - Angular (beginner)
-- Flutter (beginner)
+- Java (beginner)
 
 ## 📫 Connect with me:
 [<img align="left" alt="priyanka | LinkedIn" width="26px" src="https://raw.githubusercontent.com/priyanka-ganesan/priyanka-ganesan/master/assets/linkedin.svg" />][linkedin]
