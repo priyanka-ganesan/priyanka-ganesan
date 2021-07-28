@@ -25,12 +25,13 @@ I am a 3rd Year Undergrad pursuing Bachelors of Computer Science and Engineering
 [github]: https://github.com/priyanka-ganesan
 [medium]: https://medium.com/@priyanka.ganesan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-ganesan&color=brightgreen" alt="priyanka-ganesan" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-ganesan&show_icons=true&hide_border=true&theme=dark)](https://github.com/priyanka-ganesan/github-readme-stats)
 
+## 
+</br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanka-ganesan&color=brightgreen&style=flat" alt="priyanka-ganesan" /> </p>
 
-
-<!--
-**priyanka-ganesan/priyanka-ganesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **priyanka-ganesan/priyanka-ganesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -43,5 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-ganesan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/priyanka-ganesan)
--->
+ -->
