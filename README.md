@@ -25,6 +25,8 @@ I am a 3rd Year Undergrad pursuing Bachelors of Computer Science and Engineering
 [github]: https://github.com/priyanka-ganesan
 [medium]: https://medium.com/@priyanka.ganesan
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-ganesan&color=brightgreen" alt="priyanka-ganesan" /> </p>
+
 
 
 <!--
